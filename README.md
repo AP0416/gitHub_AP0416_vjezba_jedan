@@ -1,4 +1,4 @@
-# gitHub_user_name_vje-ba_jedan
+# gitHub_AP0416_vjezba_jedan
 Upoznavanje s osnovama gita
 
 ## 1. Što je Visual Studio Code i za što se najčešće koristi?
